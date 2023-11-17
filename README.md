@@ -47,11 +47,11 @@ El botón "Comprar ahora" desencadena un modal que proporciona una experiencia i
 
 ## Capturas de Pantalla
 
-![Captura de pantalla 1](https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-main.png)
-![Captura de pantalla 2](https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-menu-mobile.png)
-![Captura de pantalla 3](https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-mobile.png)
-![Captura de pantalla 4](https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-modal-pago.png)
-![Captura de pantalla 5](https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-tablet.png)
+<img src="https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-main.png" alt="Captura de pantalla 1" width="400"/>
+<img src="https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-menu-mobile.png" alt="Captura de pantalla 2" width="400"/>
+<img src="https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-mobile.png" alt="Captura de pantalla 3" width="400"/>
+<img src="https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-modal-pago.png" alt="Captura de pantalla 4" width="400"/>
+<img src="https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-tablet.png" alt="Captura de pantalla 5" width="400"/>
 
 ## Instalación
 
