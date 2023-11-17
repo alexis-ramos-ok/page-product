@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# MyApp - Detalle de Producto
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Vista previa del proyecto](https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-main.png)
 
-## Available Scripts
+Este proyecto fue desarrollado como parte del curso Desarrollador ReactJS impartido por la UTN FRBA a través de Argentina Programa 4.0. La aplicación, llamada "MyApp", se centra en el maquetado de una página de detalle de producto para un sitio de ecommerce, inspirado en la estructura de Mercado Libre.
 
-In the project directory, you can run:
+## Contenido
 
-### `npm start`
+- [Demostración](#demostración)
+- [Descripción](#descripción)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Capturas de Pantalla](#capturas-de-pantalla)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
+- [Contacto](#contacto)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Demostración
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[Enlace a la demostración del proyecto]([link_a_la_demo](https://product-detail-ax.netlify.app/))
 
-### `npm test`
+## Descripción
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+MyApp es una aplicación React que presenta una maquetación responsiva para la página de detalle de un producto. En este caso, se muestra una notebook, incluyendo los siguientes detalles:
 
-### `npm run build`
+- Nombre
+- Descripción
+- Precio
+- SKU
+- Cantidad disponible
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+El diseño responde a diferentes tamaños de pantalla, adaptándose para brindar la mejor experiencia de usuario posible. Además, se incorpora un carrusel personalizado cuando se visualiza en pantallas más grandes, mientras que en dispositivos móviles se utiliza un carrusel de React que permite deslizar entre imágenes de pantalla completa.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+El botón "Comprar ahora" desencadena un modal que proporciona una experiencia interactiva de compra simulada. Incluye una máscara para la introducción del formato de la tarjeta, validaciones para prevenir campos vacíos o tarjetas vencidas, y mensajes de error que desaparecen después de 3 segundos. Si se pasa exitosamente la validación, se muestra un mensaje de compra exitosa (sin comprobar la existencia real de la tarjeta debido a limitaciones prácticas del alcance del ejercicio).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Tecnologías Utilizadas
 
-### `npm run eject`
+- React
+- Bootstrap
+- FontAwesome
+- React Bootstrap
+- React Input Mask
+- React Responsive
+- React Responsive Carousel
+- React Router DOM
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Capturas de Pantalla
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Captura de pantalla 1](https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-main.png)
+![Captura de pantalla 2](https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-menu-mobile.png)
+![Captura de pantalla 3](https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-mobile.png)
+![Captura de pantalla 4](https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-modal-pago.png)
+![Captura de pantalla 5](https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-tablet.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Instalación
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Clona el repositorio: `git clone https://github.com/tuusuario/myapp.git`
+2. Navega al directorio del proyecto: `cd myapp`
+3. Instala las dependencias: `npm install`
 
-## Learn More
+## Uso
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Inicia la aplicación: `npm start`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+La aplicación estará disponible en [http://localhost:3000](http://localhost:3000) en tu navegador.
 
-### Code Splitting
+## Contribuciones
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Si deseas contribuir, por favor abre un problema antes de enviar un pull request.
+- Todas las contribuciones son bienvenidas.
 
-### Analyzing the Bundle Size
+## Licencia
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Este proyecto está bajo la licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
-### Making a Progressive Web App
+## Contacto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Si tienes preguntas o sugerencias, no dudes en contactarme:
 
-### Advanced Configuration
+- Nombre: Alexis Ramos
+- Correo electrónico: alexleaderhere@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+¡Gracias por explorar MyApp! Espero que disfrutes de la experiencia de este maquetado y encuentres útiles las funcionalidades implementadas!
