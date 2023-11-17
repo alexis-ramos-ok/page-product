@@ -36,14 +36,14 @@ El botón "Comprar ahora" desencadena un modal que proporciona una experiencia i
 
 ## Tecnologías Utilizadas
 
-[![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.2-purple)](https://getbootstrap.com/)
-[![FontAwesome](https://img.shields.io/badge/FontAwesome-6.4.2-orange)](https://fontawesome.com/)
-[![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-2.9.1-blueviolet)](https://react-bootstrap.github.io/)
-[![React Input Mask](https://img.shields.io/badge/React_Input_Mask-2.0.4-success)](https://www.npmjs.com/package/react-input-mask)
-[![React Responsive](https://img.shields.io/badge/React_Responsive-9.0.2-blue)](https://www.npmjs.com/package/react-responsive)
-[![React Responsive Carousel](https://img.shields.io/badge/React_Responsive_Carousel-3.2.23-green)](https://www.npmjs.com/package/react-responsive-carousel)
-[![React Router DOM](https://img.shields.io/badge/React_Router_DOM-6.18.0-red)](https://reactrouter.com/)
+[![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)<br>
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.2-purple)](https://getbootstrap.com/)<br>
+[![FontAwesome](https://img.shields.io/badge/FontAwesome-6.4.2-orange)](https://fontawesome.com/)<br>
+[![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-2.9.1-blueviolet)](https://react-bootstrap.github.io/)<br>
+[![React Input Mask](https://img.shields.io/badge/React_Input_Mask-2.0.4-success)](https://www.npmjs.com/package/react-input-mask)<br>
+[![React Responsive](https://img.shields.io/badge/React_Responsive-9.0.2-blue)](https://www.npmjs.com/package/react-responsive)<br>
+[![React Responsive Carousel](https://img.shields.io/badge/React_Responsive_Carousel-3.2.23-green)](https://www.npmjs.com/package/react-responsive-carousel)<br>
+[![React Router DOM](https://img.shields.io/badge/React_Router_DOM-6.18.0-red)](https://reactrouter.com/)<br>
 
 ## Capturas de Pantalla
 
