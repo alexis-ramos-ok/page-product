@@ -47,11 +47,25 @@ El botón "Comprar ahora" desencadena un modal que proporciona una experiencia i
 
 ## Capturas de Pantalla
 
-<img src="https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-main.png" alt="Captura de pantalla 1" width="400"/>
-<img src="https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-menu-mobile.png" alt="Captura de pantalla 2" width="400"/>
-<img src="https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-mobile.png" alt="Captura de pantalla 3" width="400"/>
-<img src="https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-modal-pago.png" alt="Captura de pantalla 4" width="400"/>
-<img src="https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-tablet.png" alt="Captura de pantalla 5" width="400"/>
+**Pantallas Grandes**
+<br>
+<img src="https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-main.png" alt="Pantallas Grandes" width="400"/>
+
+**Pantallas Medianas**
+<br>
+<img src="https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-tablet.png" alt="Pantallas Medianas" width="400"/>
+
+**Pantallas Pequeñas**
+<br>
+<img src="https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-mobile.png" alt="Pantallas Pequeñas" width="400"/>
+
+**Menú en Pantallas Pequeñas**
+<br>
+<img src="https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-menu-mobile.png" alt="Menú en Pantallas Pequeñas" width="400"/>
+
+**Modal de Pago**
+<br>
+<img src="https://github.com/alexis-ramos-ok/page-product/raw/main/public/screen-modal-pago.png" alt="Modal de Pago" width="400"/>
 
 ## Instalación
 
