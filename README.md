@@ -18,7 +18,7 @@ Este proyecto fue desarrollado como parte del curso Desarrollador ReactJS impart
 
 ## Demostración
 
-[Enlace a la demostración del proyecto]([link_a_la_demo](https://product-detail-ax.netlify.app/))
+[Enlace a la demostración del proyecto](https://product-detail-ax.netlify.app/)
 
 ## Descripción
 
