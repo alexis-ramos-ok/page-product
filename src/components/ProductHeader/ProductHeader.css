@@ -1,0 +1,11 @@
+.product-header-subtitulo {
+    font-size: 0.8rem;
+    color: gray;
+    margin-bottom: 0.5rem;
+}
+
+.product-header-titulo {
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-bottom: 1.1rem;
+}

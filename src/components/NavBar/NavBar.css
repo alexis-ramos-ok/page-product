@@ -1,0 +1,176 @@
+body {
+    font-size: 10px;
+}
+
+.navbar {
+    background-color: #131921;
+    padding: 0 1rem;
+}
+
+
+.navbar-logo {
+    width: 6rem;
+    height: auto;
+}
+
+.btn-suscribe {
+    padding: 0.5rem 1rem !important;
+
+}
+
+.navbar-b{
+    background-color: #232f3e;
+}
+.nav-link {
+    font-size: 0.8rem;
+    color: #fff;
+}
+
+.mi-navbar, .navbar-b {
+    padding: 0 1rem;
+}
+.mi-navbar {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+.mi-contenedor, .mi-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.mi-formulario {
+    flex: 1;
+    display: flex;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.mi-busqueda {
+    flex: 1;
+    margin-right: 0.5rem;
+}
+
+.mi-boton-buscar, .mi-boton-suscribirse {
+    flex: none;
+}
+
+.mi-boton-buscar {
+    text-align: center;
+}
+
+.mi-boton-suscribirse {
+    background-color: #00ff4c;
+    border: #006e21;
+    transition: all 300ms ease-in-out;
+    font-weight: 500;
+}
+
+.mi-boton-suscribirse:hover {
+    background-color: #00ffd5;
+}
+
+.mi-boton-suscribirse:active {
+    background-color: #00e7c1 !important;
+    transform: scale(0.99);
+}
+
+.nav-izquierda, .nav-derecha {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+
+.mi-navbar-desktop {
+    display: none;
+}
+
+.mi-navbar-mobile {
+    display: flex;
+}
+
+
+.offcanvas {
+    background-color: #131921;
+}
+
+.offcanvas-body {
+    padding-top: 0.1rem;
+}
+
+.btn-close {
+    --bs-btn-close-bg: url("data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27 fill=%27%23FF0000%27%3e%3cpath d=%27M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z%27/%3e%3c/svg%3e");
+    font-size: 1rem;
+}
+
+.offcanvas-body .mi-boton-suscribirse{
+    margin-bottom: 0.6rem;
+}
+
+.offcanvas-body .nav-link{
+    margin-left: 0.5rem;
+    font-size: 1rem;
+    padding: 0.3rem 0;
+}
+
+.mi-contenedor-mobile {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 1rem 0;
+    align-items: center;
+}
+
+.mi-formulario {
+    flex: 1;
+}
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='%23ffffff' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+.nav-item.dropdown {
+    margin-right: 2rem;
+}
+.nav-derecha-icon {
+    font-size: 1.2rem;
+}
+.user-direction{
+    color: #fff;
+    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+}
+
+.user-direction-icon{
+    margin-right: 5px;
+}
+
+.contiene-log {
+    display: block;
+}
+.contiene-log .nav-link{
+    font-size: 1rem;
+    margin-left: 1.5rem;
+}
+@media (min-width: 992px) {
+    .nav-izquierda, .nav-derecha {
+        width: auto;
+        justify-content: flex-start;
+    }
+
+    .nav-derecha {
+        justify-content: flex-end;
+    }
+}
+
+@media (min-width: 992px) {
+    .mi-navbar-desktop {
+        display: block;
+    }
+
+    .mi-navbar-mobile {
+        display: none;
+    }
+}

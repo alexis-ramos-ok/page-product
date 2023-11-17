@@ -1,0 +1,35 @@
+.links-top {
+    width: 100%;
+    padding: 1rem 5rem;
+  }
+  
+  .links-top-fila {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .links-top-titulo {
+    margin-right: 0.5rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+  }
+  
+  .links-top-link {
+    margin-right: 0.5rem;
+    font-size: 0.8rem;
+  }
+
+  .fila-2{
+    color: #008cff;
+  }
+  .links-top-link:nth-child(1){
+    color: black;
+  }
+
+  @media (max-width: 992px) {
+    .links-top {
+      display: none;
+    }
+  }

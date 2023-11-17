@@ -1,0 +1,74 @@
+.product-features-char{
+    padding: 1rem;
+}
+
+.product-features-title {
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-bottom: 1.7rem;
+}
+
+.product-features-columns {
+    display: flex;
+    justify-content: space-between;
+}
+
+.product-features-list {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.product-features-item {
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.product-features-item svg {
+    margin-right: 0.5rem;
+}
+
+/*----- ACORDIONES DE BOOTSTRAP -----*/
+
+.accordion-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px; 
+  }
+  
+  .accordion {
+    width: 45%;
+  }
+
+  .accordion-body ul{
+    font-size: 0.8rem;
+    padding-left: 0.5rem;
+  }
+
+  .accordion-body ul li{
+    margin-bottom: 0.5rem;
+  }
+
+  @media (max-width: 992px) {
+    .accordion {
+        width: 47%;
+      }
+  }
+
+  @media (max-width: 768px) {
+    .accordion-row {
+      flex-direction: column;
+    }
+  
+    .accordion {
+      width: 100%;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .product-features-columns {
+        flex-direction: column;
+    }
+    .product-features-list {
+        width: 100%;
+    }
+  }
