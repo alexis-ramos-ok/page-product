@@ -32,7 +32,7 @@ MyApp es una aplicación React que presenta una maquetación responsiva para la 
 
 El diseño responde a diferentes tamaños de pantalla, adaptándose para brindar la mejor experiencia de usuario posible. Además, se incorpora un carrusel personalizado cuando se visualiza en pantallas más grandes, mientras que en dispositivos móviles se utiliza un carrusel de React que permite deslizar entre imágenes de pantalla completa.
 
-El botón "Comprar ahora" desencadena un modal que proporciona una experiencia interactiva de compra simulada. Incluye una máscara para la introducción del formato de la tarjeta, validaciones para prevenir campos vacíos o tarjetas vencidas, y mensajes de error que desaparecen después de 3 segundos. Si se pasa exitosamente la validación, se muestra un mensaje de compra exitosa (sin comprobar la existencia real de la tarjeta debido a limitaciones prácticas del alcance del ejercicio).
+El botón "Comprar ahora" desencadena un modal que proporciona una experiencia interactiva de compra simulada. Incluye una máscara para la introducción del formato de la tarjeta, validaciones para prevenir campos vacíos o tarjetas vencidas, y mensajes de error que desaparecen después de 3 segundos. Si se pasa exitosamente la validación, se muestra un mensaje de compra exitosa (sin comprobar la existencia real de la tarjeta debido al alcance del ejercicio y para aportar mayor interactividad).
 
 ## Tecnologías Utilizadas
 
